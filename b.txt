@@ -1,3 +1,4 @@
 add b.txt
 modify b.txt 22
 modify b.txt 11
+modify b.txt 11 too
